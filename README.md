@@ -1,6 +1,6 @@
 ## simple-calculator
-## DATE:
-## REG NO:
+## DATE:26/08/2025
+## REG NO:212223040029
 ## AIM:
 Create a Simple Calculator using HTML, CSS, and JavaScript.
 ## PROCEDURE:
