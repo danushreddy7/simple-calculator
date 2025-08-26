@@ -112,7 +112,9 @@ Create a Simple Calculator using HTML, CSS, and JavaScript.
 </html>
 ```
 ## OUTPUT:
+```
 <img width="1902" height="1078" alt="image" src="https://github.com/user-attachments/assets/0dcf3558-9c4b-4fd8-bb18-b0591587ce31" />
+```
 ## RESULT:
  Simple Calculator using HTML, CSS, and JavaScript is implemented successsfully.
 
